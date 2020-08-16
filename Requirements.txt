@@ -1,0 +1,12 @@
+Pytorch
+transformers
+matplotlib
+pandas
+numpy
+tensorflow 
+keras 
+wordcloud 
+torch
+sklearn
+seaborn
+pytorch-pretrained-bert
